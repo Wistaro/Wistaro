@@ -1,7 +1,7 @@
 ### Welcome on my github profile 👋
 
-💬 I'm a young french embedded electronics engineer, with a focus on hardware and low-level developpement.  
-⚡ **Languages:** C, C++, VHDL, Verilog, Assembly, Java
+💬 I'm a young french embedded software engineer, with a focus on hardware and low-level developpement.  
+⚡ **Languages:** C, C++, C#, VHDL, Verilog, Assembly, Java
 
 ☑️ Verified Discord bot developer *(I use Discord.js lib for NodeJs)*
 
